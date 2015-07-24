@@ -1,4 +1,5 @@
 # load necessary packages
+library("dplyr")
 
 # Load test and train data sets into R
 # !Folder "getdata-projectfiles-UCI HAR Dataset" with project data 
